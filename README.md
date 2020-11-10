@@ -6,6 +6,7 @@ This is a very early-stage prototype
 
 ## Prerequisites
 
+* docker
 * hither
 * kachery
 * nodejs >= 12
