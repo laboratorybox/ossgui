@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+import ossgui
+
+ossgui.start_server()
